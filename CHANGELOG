@@ -1,0 +1,58 @@
+CHANGELOG - NANS
+Nicholas Tang ( ntang -at- nachtwache dot org )
+Bob Patterson ( bpatterson -at- i1ops dot net )
+
+[2009-12-7]
+
+
+[2001-11-27]
+ * NANS 0.6 released.
+
+[2001-11-14]
+ * (Finally) incorporated the enhancements sent to me by Alan Ritari.
+   Testing is going on, and I will release a new version soon.  This 
+   gives you the ability to send notifications by group.  Woooooo.
+
+[2001-07-18]
+ * NANS 0.5 released.
+
+[2001-07-16]
+ * Done with 0.5.  Running it at work for a few days to make sure 
+   there aren't any odd issues, then I'll release it here in a 
+   few days (the coming weekend at the latest).
+
+[2001-07-13]
+ * Happy Friday the 13th.  Added improved error checking and logging 
+   to the upcoming v0.5.  Good stuff.  Should help those who had
+   problems getting it up and running.  Release any day now.
+ * Realized I never changed the header of the CHANGELOG to say 
+   "NANS" instead of "utilities".  D'oh.  Fixed.
+
+[2001-07-12]
+ * Fixed bug in the notification count logic.  Will be included in 
+   0.5, along with other fixes/improvements - like improved error 
+   checking.
+
+[2001-07-09]
+ * Update the VERSION in aggregate-notify-0.4.1.pl to match the 
+   filename (now reads 0.4.1 as it should).  Oops.
+
+[2001-07-01]
+ * Fixed minor bug in aggregate-notify.pl - was puking with errors on 
+   some OS's.  Should work fine on them now.  Incremented version on 
+   aggregate-notify to 0.4.1.
+
+[2001-06-18]
+ * Fixed minor typo in one error message in aggregate-notify.pl
+
+[2001-06-14]
+ * NANS 0.4 released.
+   - code cleanup
+   - new report: mini-summary
+   - added "|||" as divider to make pages easier to read
+   - fixed inline docs to be more accurate
+
+[2001-05-23]
+ * Initial release of NANS - the Netsaint Aggregate Notification 
+   System.
+
