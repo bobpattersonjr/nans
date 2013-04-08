@@ -38,7 +38,7 @@ use strict;
 use Getopt::Std;
 use FileHandle;
 
-use vars qw($fh %opts $logfile $loglevel @ERRORS $debug);
+use vars qw($fh %opts $logfile $loglevel @ERRORS $debug $baseurl);
 use constant VERSION => 0.8;
 use constant LOCK_EX => 2;
 use constant LOCK_UN => 8;
